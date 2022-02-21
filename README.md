@@ -13,4 +13,4 @@
 ### Steps to run:
 1. clone repo
 2. using different terminals ```cd```  into each microservice directory
-3. run ```./mvnm spring-boot:run``` each microservice
+3. run ```mvn spring-boot:run``` each microservice
